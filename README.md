@@ -1,3 +1,7 @@
+# Despliegue de programa
+
+![image](https://github.com/user-attachments/assets/7829b1b5-db18-4b05-a6e4-cc74393aeaff)
+
 
 # Una de tipo GET (“/”) para presentar la información del grupo de trabajo.
 
